@@ -1,0 +1,1 @@
+Merhaba, bu uygulama teknik ekibe iletildi yazısını boşluk tuşuna yada butona basarak kopyalıyor
